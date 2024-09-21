@@ -19,7 +19,7 @@ import struct
 import math
 import time
 import wave
-import cv2
+import cv2O
 
 
 import sys
